@@ -1,0 +1,72 @@
+---
+title: "Reachable Power Flow: Theory to Practice"
+
+# Authors
+# If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
+# and it will be replaced with their full name and linked to their profile.
+authors:
+- Yifan Zhou
+- Peng Zhang
+
+# Author notes (optional)
+# author_notes:
+# - "Equal contribution"
+# - "Equal contribution"
+
+date: "2020-10-14T00:00:00Z"
+doi: "10.1109/TPWRS.2020.3031196"
+
+# Schedule page publish date (NOT publication's date).
+# publishDate: "2017-01-01T00:00:00Z"
+
+# Publication type.
+# Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
+# 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
+# 7 = Thesis; 8 = Patent
+publication_types: ["2"]
+
+# Publication name and optional abbreviated publication name.
+publication: In *IEEE Transactions on Power Systems*
+# publication_short: In *ICW*
+
+abstract: "Reachable power flow ( ReachFlow ) is a newly developed formal method for enclosing the complete set of uncertain power flow states. To enable ReachFlow 's transition from theory to practice, the paper makes three major contributions: (1) both small- and large- signal stability proofs for the ordinary differential equation (ODE)-based power flow are devised to theoretically ensure the robustness of ReachFlow ; (2) a model-order-reduction-empowered ReachFlow ( ReachFlow$^R$ ) algorithm is created for analyzing interested regions in large power systems; and (3) a parallel ReachFlow ( ReachFlow$^P$ ) algorithm is established to scale up ReachFlow for the accurate analysis of very large power systems. Extensive case studies are performed on a series of test systems, ranging from a 33-bus microgrid to a 2,000-bus power system, to thoroughly verify the correctness, efficacy and practicality of ReachFlow in formally verifying microgrid and macrogrid power flows as well as power flow control strategies."
+
+# Summary. An optional shortened abstract.
+
+tags: 
+  - Formal Analysis
+
+# Display this page in the Featured widget?
+featured: false
+
+# Custom links (uncomment lines below)
+# links:
+# - name: Custom Link
+#   url: http://example.org
+
+url_pdf: ''
+url_code: ''
+url_dataset: ''
+url_poster: ''
+url_project: ''
+url_slides: ''
+url_source: ''
+url_video: ''
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder. 
+image:
+  caption: "Schematic diagram of parallel ReachFlow."
+  filename: parallel_RPF
+  focal_point: Smart
+  preview_only: false
+
+# Associated Projects (optional).
+#   Associate this publication with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `internal-project` references `content/project/internal-project/index.md`.
+#   Otherwise, set `projects: []`.
+# projects:
+# - example
+
+
