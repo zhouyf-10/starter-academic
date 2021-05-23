@@ -5,7 +5,7 @@ authors:
   - Wei Hu
   - Yong Min
 
-date: "2016-01-01T00:00:00Z"
+date: "2016-11-06T00:00:00Z"
 
 
 # Publication type.
@@ -15,7 +15,7 @@ date: "2016-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Automationof Electric Power Systems*
+publication: *Automation of Electric Power Systems*
 # publication_short: In *STC*
 
 

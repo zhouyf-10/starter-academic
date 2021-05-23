@@ -15,7 +15,7 @@ doi: "10.1109/TPWRS.2020.3031196"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *IEEE Transactions on Power Systems*
+publication: *IEEE Transactions on Power Systems*
 # publication_short: In *STC*
 
 abstract: "Reachable power flow ( ReachFlow ) is a newly developed formal method for enclosing the complete set of uncertain power flow states. To enable ReachFlow 's transition from theory to practice, the paper makes three major contributions: (1) both small- and large- signal stability proofs for the ordinary differential equation (ODE)-based power flow are devised to theoretically ensure the robustness of ReachFlow ; (2) a model-order-reduction-empowered ReachFlow ( ReachFlow^R ) algorithm is created for analyzing interested regions in large power systems; and (3) a parallel ReachFlow ( ReachFlow^P ) algorithm is established to scale up ReachFlow for the accurate analysis of very large power systems. Extensive case studies are performed on a series of test systems, ranging from a 33-bus microgrid to a 2,000-bus power system, to thoroughly verify the correctness, efficacy and practicality of ReachFlow in formally verifying microgrid and macrogrid power flows as well as power flow control strategies."
