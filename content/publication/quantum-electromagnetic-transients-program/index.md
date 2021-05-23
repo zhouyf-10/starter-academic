@@ -34,7 +34,7 @@ featured: true
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
   caption: "Quantum EMTP."
-  filename: QEMTP
+  filename: featured
   focal_point: Smart
   preview_only: false
 
