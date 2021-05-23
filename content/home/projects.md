@@ -27,8 +27,12 @@ content:
   filter_button:
   - name: All
     tag: '*'
+  - name: Formal Analysis
+    tag: Formal Analysis
   - name: Deep Learning
     tag: Deep Learning
+  - name: Quantum Computing
+    tag: Quantum Computing
   - name: Other
     tag: Demo
 
