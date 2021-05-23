@@ -26,7 +26,8 @@ abstract: "This letter devises a quantum electromagnetic transients program (QEM
 
 tags:
 - Quantum Computing
-featured: true
+draft: false
+featured: false
 
 
 
