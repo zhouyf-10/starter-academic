@@ -20,7 +20,7 @@ publication_types: ["2"]
 publication: In *IEEE Transactions on Power Systems*
 # publication_short: In *STC*
 
-abstract: "This letter devises a quantum electromagnetic transients program (QEMTP) which is the first attempt to tackle the computational challenges in solving EMTP through quantum computing. The main contributions lie in: (1) A quantum-enabled EMTP formulation with Dommel's model encoded in quantum states; 2) An HHL-based QEMTP to solve the discrete-time nodal equations; 3) An iteration-based HHL revision for mitigating temporal errors to achieve high accuracy of QEMTP with limited quantum resources. Case studies verify the correctness and efficacy of QEMTP in simulating both fast and slow dynamics."
+abstract: "A quantum electromagnetic transients program (QEMTP) is devised, which is the first attempt to tackle the computational challenges in solving EMTP through quantum computing. The main contributions lie in: (1) A quantum-enabled EMTP formulation with Dommel's model encoded in quantum states; 2) An HHL-based QEMTP to solve the discrete-time nodal equations; 3) An iteration-based HHL revision for mitigating temporal errors to achieve high accuracy of QEMTP with limited quantum resources. Case studies verify the correctness and efficacy of QEMTP in simulating both fast and slow dynamics."
 
 
 
@@ -34,7 +34,7 @@ featured: false
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: "Quantum EMTP."
+  caption: "Overview of quantum EMTP."
   filename: featured
   focal_point: Smart
   preview_only: false

@@ -29,8 +29,8 @@ content:
     tag: '*'
   - name: Formal Analysis
     tag: Formal Analysis
-  - name: Deep Learning
-    tag: Deep Learning
+  - name: Machine Learning
+    tag: Machine Learning
   - name: Quantum Computing
     tag: Quantum Computing
   - name: Other
