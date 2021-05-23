@@ -37,6 +37,7 @@ content:
     tag: Quantum Computing
   - name: Other
     tag: Integrated Energy System, Other
+    
 design:
   # Choose a view for the listings:
   #   1 = List
