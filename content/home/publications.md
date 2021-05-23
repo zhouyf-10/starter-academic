@@ -1,5 +1,5 @@
 ---
-# An instance of the Pages widget.
+# An instance of the Portfolio widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: portfolio
 
@@ -13,14 +13,8 @@ title: Publications
 subtitle: ''
 
 content:
-  # Page type to display. E.g. post, talk, publication...
+  # Page type to display. E.g. project.
   page_type: publication
-  # Choose how much pages you would like to display (0 = all pages)
-  count: 5
-  # Choose how many pages you would like to offset by
-  offset: 0
-  # Page order: descending (desc) or ascending (asc) date.
-  order: desc
 
   # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
   filter_default: 0
@@ -42,22 +36,17 @@ content:
   - name: Other
     tag: Demo
 
-  # # Filter on criteria
-  # filters:
-  #   tag: ''
-  #   category: ''
-  #   publication_type: ''
-  #   author: ''
-  #   exclude_featured: true
 design:
-  # Choose a view for the listings:
+  # Choose how many columns the section has. Valid values: '1' or '2'.
+  columns: '2'
+
+  # Toggle between the various page layout types.
   #   1 = List
   #   2 = Compact
   #   3 = Card
-  #   4 = Citation (publication only)
+  #   5 = Showcase
   view: 1
----
 
-{{% callout note %}}
-Quickly discover relevant content by [filtering publications](./publication/).
-{{% /callout %}}
+  # For Showcase view, flip alternate rows?
+  flip_alt_rows: false
+---
