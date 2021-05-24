@@ -3,7 +3,7 @@ title: "Reachable Eigenanalysis"
 authors:
   - Yifan Zhou
   - Peng Zhang
-date: "2020-07-20T00:00:00Z"
+date: "2020-11-01T00:00:00Z"
 doi: "10.1109/TPWRS.2020.3009860"
 
 # Schedule page publish date (NOT publication's date).
@@ -16,7 +16,7 @@ doi: "10.1109/TPWRS.2020.3009860"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *IEEE Transactions on Power Systems*
+publication: "*IEEE Transactions on Power Systems*"
 # publication_short: In *STC*
 
 abstract: "This paper devises a Reachable Eigenanalysis (ReachEigen) theory as a formal method to analyze uncertain eigenvalues in power systems. ReachEigen computes the set of the possible spectra, taking into account the changes of both the system operating points and the characteristic equations caused by uncertainties. The innovation of ReachEigen lies in: 1) a Newton-iteration-based eigensolver which tractably tackles the “random walk” of steady-state operating points and delineates the propagation of uncertainty effects in the system eigenvalues; and 2) a reachability method established on the Netwon's eigensolver, which bounds the set of uncertain eigenvalues through a single calculation and thus is immune to the combinatorial explosion issue under a large number of uncertain factors. Case studies on a networked microgrid verifies the efficiency of ReachEigen and its superiority over existing methods. The efficacy of ReachEigen of providing early warning information for small-signal stability under uncertainties is also illustrated."

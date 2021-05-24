@@ -17,7 +17,7 @@ doi: "10.1109/TPWRS.2021.3067207"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *IEEE Transactions on Power Systems*
+publication: "*IEEE Transactions on Power Systems*"
 # publication_short: In *STC*
 
 abstract: "A quantum electromagnetic transients program (QEMTP) is devised, which is the first attempt to tackle the computational challenges in solving EMTP through quantum computing. The main contributions lie in: (1) A quantum-enabled EMTP formulation with Dommel's model encoded in quantum states; 2) An HHL-based QEMTP to solve the discrete-time nodal equations; 3) An iteration-based HHL revision for mitigating temporal errors to achieve high accuracy of QEMTP with limited quantum resources. Case studies verify the correctness and efficacy of QEMTP in simulating both fast and slow dynamics."
