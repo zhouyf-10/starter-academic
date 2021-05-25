@@ -46,7 +46,7 @@ social:
     icon_pack: ai
   - icon: gratipay
     link: https://kunqian.info/
-    icon_pack: fas
+    icon_pack: fab
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
