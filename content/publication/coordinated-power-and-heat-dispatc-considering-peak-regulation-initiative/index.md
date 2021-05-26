@@ -1,5 +1,5 @@
 ---
-title: "Coordinated Power and Heat DispatchConsidering Peak Regulation Initiative of Combined Heat and Power Unit"
+title: "Coordinated Power and Heat Dispatch Considering Peak Regulation Initiative of Combined Heat and Power Unit"
 authors:
   - Yifan Zhou
   - Wei Hu

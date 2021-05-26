@@ -1,5 +1,5 @@
 ---
-title: "MILP-based splitting strategy searching considering island connectivity and voltage stability margin"
+title: "Coherency Feature Extraction based on DFT-based Continuous Wavelet Transform"
 authors:
   - Yifan Zhou
   - Wei Hu

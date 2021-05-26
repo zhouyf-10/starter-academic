@@ -1,5 +1,5 @@
 ---
-title: "A Novel Active Splitting Strategy Search Method With Modularity-Based Network Partition"
+title: "A Novel Active Splitting Strategy Search Method with Modularity-based Network Partition"
 authors:
   - Yifan Zhou
   - Wei Hu

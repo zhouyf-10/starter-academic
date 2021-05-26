@@ -1,5 +1,5 @@
 ---
-title: "Dynamic Comprehensive Evaluation of Chines Power System Development Level Based on Provincial Data"
+title: "Dynamic Comprehensive Evaluation of Chinese Power System Development Level Based on Provincial Data"
 authors:
   - Yifan Zhou
   - Wei Hu

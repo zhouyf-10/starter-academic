@@ -1,5 +1,5 @@
 ---
-title: "Reachable Dynamics of Networked Microgrids With Large Disturbances"
+title: "Reachable Dynamics of Networked Microgrids with Large Disturbances"
 authors:
   - Yifan Zhou
   - Peng Zhang

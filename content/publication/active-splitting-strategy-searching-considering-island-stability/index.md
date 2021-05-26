@@ -1,5 +1,5 @@
 ---
-title: "Active Splitting Strategy Searching Approach Based On MISOCP With Consideration of Power Island Stability"
+title: "Active Splitting Strategy Searching Approach based on MISOCP with Consideration of Power Island Stability"
 authors:
   - Yifan Zhou
   - Wei Hu

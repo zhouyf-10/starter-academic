@@ -1,5 +1,5 @@
 ---
-title: "Power And Energy Flexibility of District Heating System And Its Application In Wide-Area Power And Heat Dispatch"
+title: "Power and Energy Flexibility of District Heating System and Its Application in Wide-Area Power and Heat Dispatch"
 authors:
   - Yifan Zhou
   - Wei Hu

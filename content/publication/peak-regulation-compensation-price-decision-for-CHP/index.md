@@ -1,5 +1,5 @@
 ---
-title: "Peak Regulation Compensation PriceDecision for Combined Heat and Power Unit and Profit Allocation Method"
+title: "Peak Regulation Compensation Price Decision for Combined Heat and Power Unit and Profit Allocation Method"
 authors:
   - Yifan Zhou
   - Wei Hu
