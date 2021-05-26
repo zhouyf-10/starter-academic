@@ -8,5 +8,5 @@ active: true
 design:
   columns: "2"
 ---
-:loudspeaker: 2021/02 Our paper  
-[[More...]](/news/)
+<!-- :loudspeaker: 2021/02 Our paper  
+[[More...]](/news/) -->
