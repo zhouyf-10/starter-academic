@@ -44,9 +44,9 @@ social:
   - icon: cv
     link: /uploads/resume_yifanzhou.pdf
     icon_pack: ai
-  # - icon: heart
-  #   link: https://kunqian.info/
-  #   icon_pack: fas
+  - icon: heart
+    link: https://kunqian.info/
+    icon_pack: fas
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
