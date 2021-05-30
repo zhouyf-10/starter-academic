@@ -15,7 +15,7 @@ date: "2016-11-06T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Automation of Electric Power Systems*"
+publication: "*Automation of Electric Power Systems*, vol.40, no.18, pp. 76-83"
 # publication_short: In *STC*
 
 
