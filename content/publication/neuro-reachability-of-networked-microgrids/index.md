@@ -21,6 +21,8 @@ abstract: "A neural ordinary differential equations network (ODE-Net)-enabled re
 
 url_pdf: 'https://arxiv.org/abs/2101.05159v1'
 
+https://ieeexplore.ieee.org/document/9444806
+
 tags:
   - Formal Analysis
   - Machine Learning
