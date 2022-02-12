@@ -39,7 +39,7 @@ education:
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
   - icon: google-scholar
-    link: https://scholar.google.com/citations?user=ffktsxoAAAAJ&hl=zh-CN
+    link: https://scholar.google.com/citations?hl=en&user=ffktsxoAAAAJ&view_op=list_works&sortby=pubdate
     icon_pack: ai
   - icon: cv
     link: /uploads/resume_yifanzhou.pdf
