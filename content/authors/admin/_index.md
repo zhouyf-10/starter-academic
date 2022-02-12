@@ -62,5 +62,5 @@ email: ""
 highlight_name: false
 ---
 
-Yifan Zhou is currently a postdoctoral researcher at Department of Electrical and Computer Engineering, Stony Brook University, working with Professor [Peng Zhang](http://www.ece.stonybrook.edu/~pzhang/index.html). She received her Ph.D. from the Department of Electrical Engineering at Tsinghua University in July 2019, under the supervision of Professor [](http://www.cse.msu.edu/~liuyunha/)[Yong Min](https://www.eea.tsinghua.edu.cn/en/info/1100/1944.htm). Before that, she received her B.E. in Electrical Engineering in 2014 from the Department of Electrical Engineering at Tsinghua University.
+Yifan Zhou is currently a postdoctoral researcher at Department of Electrical and Computer Engineering, Stony Brook University, working with Professor [Peng Zhang](http://www.ece.stonybrook.edu/~pzhang/index.html). She received her Ph.D. from the Department of Electrical Engineering at Tsinghua University in July 2019, under the supervision of Professor [](http://www.cse.msu.edu/~liuyunha/)[Yong Min](https://www.eea.tsinghua.edu.cn/en/info/1100/1944.htm). Before that, she received her B. Sc. in Electrical Engineering in 2014 from the Department of Electrical Engineering at Tsinghua University.
 
