@@ -7,7 +7,7 @@ date:  "2022-06-01T00:00:00Z"
 external_link: ""
 
 image:
-  caption: "ai.png"
+  caption: "Overview of established techniques"
   filename: featured
   focal_point: Smart
   preview_only: false 
