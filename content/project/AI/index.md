@@ -7,7 +7,7 @@ date:  "2022-06-01T00:00:00Z"
 external_link: ""
 
 image:
-  caption: "AI"
+  caption: "ai.png"
   filename: featured
   focal_point: Smart
   preview_only: false 
