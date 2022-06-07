@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 16
 
-title: Directions
+title: Research
 subtitle: ''
 
 content:
