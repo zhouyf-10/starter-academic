@@ -1,5 +1,5 @@
 ---
-title: 纽约州立大学石溪分校电力系统方向博士/博士后招聘
+title: 石溪大学电力系统方向博士/博士后招聘
 
  
 ---
@@ -8,7 +8,7 @@ title: 纽约州立大学石溪分校电力系统方向博士/博士后招聘
 ## 导师信息
 
 
-周一凡博士将于2022秋季入职纽约州立大学石溪分校（Stony Brook University）电气与计算机工程系（ECE）担任助理教授。周一凡于2019年博士毕业于清华大学电机系，其主要研究方向为微电网动态分析与运行控制、电力系统形式化分析（formal analysis）、数据驱动智能电网、量子计算在电力系统的应用等，目前在IEEE Transactions on Power Systems 等电力系统顶级期刊发表论文二十余篇，相关研究成果可参考[https://yifanzhou.info/](https://yifanzhou.info/)。
+周一凡博士将于2022秋季入职纽约州立大学石溪分校（Stony Brook University）电气与计算机工程系（ECE）担任助理教授。周一凡于2019年博士毕业于清华大学电机系，其主要研究方向为微电网动态分析与运行控制、电力系统形式化分析（power system formal analysis）、数据驱动智能电网、量子计算在电力系统的应用等，目前在IEEE Transactions on Power Systems 等电力系统顶级期刊发表论文二十余篇，相关研究成果可参考[https://yifanzhou.info/](https://yifanzhou.info/)。
 
 
 ## 课题组研究方向
