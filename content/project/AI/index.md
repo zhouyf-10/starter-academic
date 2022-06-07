@@ -8,7 +8,7 @@ external_link: ""
 
 image:
   caption: "Overview of established techniques"
-  filename: featured
+  filename: ai
   focal_point: Smart
   preview_only: false 
 
