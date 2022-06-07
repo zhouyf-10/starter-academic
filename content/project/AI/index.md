@@ -2,15 +2,15 @@
 title: AI-Driven Smart Grid
 summary: Learning-based modelling, analysis, verification and control of power systems with renewables.
 tags:
-- Demo
-date: "2016-04-27T00:00:00Z"
-
+date:  "2022-06-01T00:00:00Z"
 # Optional external URL for project (replaces project detail page).
 external_link: ""
 
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption: "AI"
+  filename: featured
   focal_point: Smart
+  preview_only: false 
 
 links:
 url_code: ""
@@ -26,4 +26,5 @@ url_video: ""
 slides: example
 ---
 
-to be added
+**Related Publications**
+
