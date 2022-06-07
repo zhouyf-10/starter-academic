@@ -6,12 +6,10 @@ date:  "2022-06-01T00:00:00Z"
 # Optional external URL for project (replaces project detail page).
 external_link: ""
 
-image:
-  caption: "Overview of established techniques"
-  filename: ai
-  focal_point: Smart
-  preview_only: false 
 
+image:
+  caption: Overview of established techniques
+  focal_point: Smart
 links:
 url_code: ""
 url_pdf: ""
