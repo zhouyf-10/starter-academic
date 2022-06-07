@@ -1,11 +1,12 @@
+
 ---
-title: "Noisy-Intermediate-Scale Quantum Electromagnetic Transients Program"
+title: "Noise-Resilient Quantum Machine Learning for Stability Assessment of Power Systems"
 authors:
   - Yifan Zhou
   - Peng Zhang
 
-date: "2022-05-01T00:00:00Z"
-doi: "10.1109/TPWRS.2022.3160384"
+date: "2022-05-10T00:00:00Z"
+doi: "10.1109/TPWRS.2022.3172655"
 
 
 # Publication type.
@@ -18,13 +19,12 @@ publication_types: ["2"]
 publication: "Accepted by *IEEE Transactions on Power Systems*"
 # publication_short: In *STC*
 
-abstract: "Transient stability assessment (TSA) is a cornerstone for resilient operations of todays interconnected power grids. This paper is a confluence of quantum computing, data science and machine learning to potentially address the power system TSA issue. We devise a quantum TSA (QTSA) method to enable scalable and efficient data-driven transient stability prediction for bulk power systems, which is the first attempt to tackle the TSA issue with quantum computing. Our contributions are three-fold: 1) A high expressibility, low-depth (HELD) quantum circuit is designed for accurate and noise-resilient TSA; 2) A quantum natural gradient descent algorithm is developed for efficient HELD circuit training; 3) A systematical analysis on QTSAs performance under various quantum factors is per-formed. QTSA underpins a foundation of quantum-enabled and data-driven power grid stability analytics. It renders the intractable TSA straightforward and effortless in the Hilbert space, and therefore provides stability information for power system operations. Extensive experiments on quantum simulators and real quantum computers verify the accuracy, noise-resilience, scalability and universality of QTSA."
+abstract: "Quantum-empowered electromagnetic transients program (QEMTP) is a promising paradigm for tackling EMTP's computational burdens. Nevertheless, no existing studies truly achieve a practical and scalable QEMTP operable on today's noisy-intermediate-scale quantum (NISQ) computers. The strong reliance on noise-free and fault-tolerant quantum devices--which appears to be decades away--hinder practical applications of current QEMTP methods. This paper devises a NISQ-QEMTP methodology which for the first time transitions the QEMTP operations from ideal, noise-free quantum simulators to real, noisy quantum computers. The main contributions lie in: (1) a shallow-depth QEMTP quantum circuit for mitigating noises on NISQ quantum devices; (2) practical QEMTP linear solvers incorporating executable quantum state preparation and measurements for nodal voltage computations; (3) a noise-resilient QEMTP algorithm leveraging quantum resources logarithmically scaled with power system dimension; (4) a quantum shifted frequency analysis (QSFA) for accelerating QEMTP by exploiting dynamic phasor simulations with larger time steps; (5) a systematical analysis on QEMTPs performance under various noisy quantum environments. Extensive experiments systematically verify the accuracy, efficacy, universality and noise-resilience of QEMTP on both noise-free simulators and IBM real quantum computers."
 
-url_pdf: 'https://ieeexplore.ieee.org/abstract/document/9737359'
+url_pdf: 'https://ieeexplore.ieee.org/abstract/document/9769895'
 
 tags:
 - Quantum Computing
-- Machine Learning
 
 draft: false
 featured: false
@@ -34,13 +34,12 @@ featured: false
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: "Demonstration of qTSA procedure on the SMIB test system."
-  filename: featured
+  caption: ""
+  filename: 
   focal_point: Smart
   preview_only: false
 
 
 
 ---
-
 
