@@ -2,7 +2,7 @@
 title: Quantum-Enhanced Power Analytics 
 summary: Noise-free and noisy-intermediate-scale quantum computing in power system analysis.
 tags:
-date:  "2022-06-01T00:00:00Z"
+date:  ""
 # Optional external URL for project (replaces project detail page).
 external_link: ""
 
