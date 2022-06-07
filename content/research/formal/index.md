@@ -2,7 +2,7 @@
 title: Verifiable Power System Operations 
 summary: Dependable verification of power system behaviors under unprecedented uncertainties.
 tags:
-date:  "2022-06-01T00:00:00Z"
+date:  ""
 # Optional external URL for project (replaces project detail page).
 external_link: ""
 
