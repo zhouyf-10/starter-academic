@@ -1,4 +1,3 @@
-
 ---
 title: "Noise-Resilient Quantum Machine Learning for Stability Assessment of Power Systems"
 authors:
