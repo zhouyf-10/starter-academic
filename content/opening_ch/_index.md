@@ -1,6 +1,6 @@
 ---
-title: Display Jupyter Notebooks with Academic
-subtitle: Learn how to blog in Academic using Jupyter notebooks
+title: 纽约州立大学石溪分校电力系统方向博士/博士后招聘
+
  
 ---
 纽约州立大学石溪分校电气与计算机工程系周一凡博士课题组现招收电力系统方向博士研究生和博士后，研究方向为结合机器学习、量子计算等技术的电力系统动态分析与运行。博士研究生将于2022年秋季、2023春季或秋季入学，提供全额奖学金。博士后待遇面谈。欢迎电气工程、计算机、自动化、电子、应用数学等方向的学生申请。
