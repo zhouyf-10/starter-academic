@@ -7,20 +7,29 @@ subtitle: Learn how to blog in Academic using Jupyter notebooks
 
 ## 导师信息
 
-周一凡博士将于2022秋季入职纽约州立大学石溪分校（Stony Brook University）电气与计算机工程系（ECE）担任助理教授。周一凡于2019年博士毕业于清华大学电机系，其主要研究方向为机器学习、量子计算， quantum computing in power analytics，power system formal analysis等，目前在IEEE Transactions on Power Systems 等电力系统顶级期刊发表论文二十余篇，相关研究成果可参考[https://yifanzhou.info/](https://yifanzhou.info/)。
+周一凡博士将于2022秋季入职纽约州立大学石溪分校（Stony Brook University）电气与计算机工程系（ECE）担任助理教授。周一凡于2019年博士毕业于清华大学电机系，其主要研究方向为微电网动态分析与运行控制、电力系统形式化分析（formal analysis）、数据驱动智能电网、量子计算在电力系统的应用等，目前在IEEE Transactions on Power Systems 等电力系统顶级期刊发表论文二十余篇，相关研究成果可参考[https://yifanzhou.info/](https://yifanzhou.info/)。
 
 
 ## 课题组研究方向
 
-（1）信息物理融合的电力系统动态分析与运行研究：
+（1）**信息物理融合的电力系统动态分析与运行研究**：
+
 •	包括高比例可再生能源电力系统分析与运行、形式化验证（formal verification）、信息物理系统（cyber-physical system）、互联微网优化运行控制等。
+
 •	课题组具有坚实的软硬件基础，如电力系统实时仿真设备（RTDS）、软件定义网络（SDN）设备、PSSE、DSATools等，可供学生研究使用。
-（2）基于机器学习的电力系统运行研究：
+
+（2）**基于机器学习的电力系统运行研究**：
+
 •	包括基于机器学习的模型辨识、态势感知、在线分析、优化运行等。
+
 •	课题组与石溪大学计算机系、MIT、慕尼黑工业大学（TUM）等高校深度学习、优化、形式化验证等领域教授有长期合作，为学生提供良好的交流学习平台。
-（3）量子计算在电力系统的应用：
+
+（3）**量子计算在电力系统的应用**：
+
 •	包括量子数值运算、量子优化、量子机器学习等在电力系统计算的应用等。
+
 •	石溪大学ECE在该领域处于世界领先水平。课题组与石溪大学杨振宁理论物理研究所、Brookhaven国家实验室、IBM合作紧密，课题组学生可使用IBM多台量子计算机（包括目前最大的127 qubit量子计算机）开展研究。
+
 
 课题组研究受到美国国家科学基金会（NSF）和能源部（DOE）资助，经费充足，并与Brookhaven国家实验室、MIT、清华大学、ISO New England、Eversource Energy Center有紧密合作。同时，机器学习、量子计算与电力系统工程问题的结合是电力行业最为热门的交叉领域，具有相关研究背景的博士生在工业界和学术界都将具有极强的竞争力。
 
