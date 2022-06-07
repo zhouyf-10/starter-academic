@@ -8,8 +8,8 @@ external_link: ""
 
 
 image:
-  caption: Overview of established techniques
-  focal_point: Smart
+  caption:  
+  focal_point:  
 links:
 url_code: ""
 url_pdf: ""
@@ -26,3 +26,8 @@ slides: example
 
 **Related Publications**
 
+1. **Yifan Zhou**, Peng Zhang, “Neuro-Reachability of Networked Microgrids,” IEEE Transactions on Power Systems, vol. 37, no. 1, pp. 142-152, Jan. 2022.
+
+2. **Yifan Zhou**, Peng Zhang, “Neural Electromagnetic Transients Program,” in 2022 IEEE Power and Energy Society General Meeting (PESGM), Denver, Colorado, 2022.
+
+3. Fei Feng, **Yifan Zhou**, Peng Zhang, “Neuro Dynamic State Estimation,” IEEE Transactions on Power Systems, under review.
